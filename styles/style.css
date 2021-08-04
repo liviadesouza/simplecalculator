@@ -43,7 +43,7 @@ body {
 }
 
 .result {
-	height: 2vw;
+	height: 3vw;
 	width: 20vw;
 	border: none;
 	border-radius: 5px;
@@ -100,24 +100,24 @@ body {
 	background: #10100e;
 }
 
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 920px) {
 	.calc {
 		width: 70vw;
 	}
 	.title {
-		font-size: 5vw;
+		font-size: 7vw;
 	}
 	.calculator {
 		padding: 5px;
 		width: 70vw;
 	}
-	
+
 	.result {
-		height: 5vw;
+		height: 8vw;
 		width: 70vw;
 		font-size: 3vw;
 	}
-	
+
 	.button,
 	.buttonZero {
 		color: #f4f3ee;
@@ -125,7 +125,7 @@ body {
 		height: 10vw;
 		font-size: 3vw;
 	}
-	
+
 	.buttonOperator,
 	.buttonEnter {
 		color: #eec170;
@@ -133,20 +133,20 @@ body {
 		height: 10vw;
 		font-size: 3vw;
 	}
-	
+
 	.button:hover,
 	.buttonOperator:hover,
 	.buttonZero:hover,
 	.buttonEnter:hover {
 		background: #353535;
 	}
-	
+
 	.buttonEnter {
 		height: 30vw;
 		color: #eec170;
 		background: #10100e;
 	}
-	
+
 	.buttonZero {
 		width: 30vw;
 		background: #10100e;
