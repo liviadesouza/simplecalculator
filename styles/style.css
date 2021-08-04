@@ -99,3 +99,56 @@ body {
 	width: 10vw;
 	background: #10100e;
 }
+
+@media only screen and (max-width: 1024px) {
+	.calc {
+		width: 70vw;
+	}
+	.title {
+		font-size: 5vw;
+	}
+	.calculator {
+		padding: 5px;
+		width: 70vw;
+	}
+	
+	.result {
+		height: 5vw;
+		width: 70vw;
+		font-size: 3vw;
+	}
+	
+	.button,
+	.buttonZero {
+		color: #f4f3ee;
+		width: 10vw;
+		height: 10vw;
+		font-size: 3vw;
+	}
+	
+	.buttonOperator,
+	.buttonEnter {
+		color: #eec170;
+		width: 10vw;
+		height: 10vw;
+		font-size: 3vw;
+	}
+	
+	.button:hover,
+	.buttonOperator:hover,
+	.buttonZero:hover,
+	.buttonEnter:hover {
+		background: #353535;
+	}
+	
+	.buttonEnter {
+		height: 30vw;
+		color: #eec170;
+		background: #10100e;
+	}
+	
+	.buttonZero {
+		width: 30vw;
+		background: #10100e;
+	}
+}
