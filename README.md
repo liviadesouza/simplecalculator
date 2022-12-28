@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-<h3><a href="https://simplecalculatorbycoff.netlify.app/">Deploy</a></h3>
+<h3><a href="https://simplecalculatorbylivia.netlify.app/">Deploy</a></h3>
 <h3> Visualização </h3>
 <img src="https://s10.gifyu.com/images/Publicao-Feed-LinkedIn.gif" width="500" height="450px">
 </div>
